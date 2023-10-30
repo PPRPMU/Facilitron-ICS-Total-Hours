@@ -6,7 +6,7 @@ Script for use by PPR to count the total number of hours we've used facilitron.
 
 NOT GOING TO WORK ON CITY WIFI
 
-You can generate an approriate data file from sharepoint by setting up a view
+You can generate an appropriate data file from sharepoint by setting up a view
 for all school permits in the date range you're interested in. Once you have the view,
 just export to excel and save the query as a csv. 
 
