@@ -1,5 +1,6 @@
 install_packages.sh
 Script to ensure all necessary python packages are installed. Run this once the first time you clone it.
+Runs from your command line (or prompt, what have you)
 
 ICS-summary.py
 Script for use by PPR to count the total number of hours we've used facilitron. 
