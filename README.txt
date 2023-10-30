@@ -11,7 +11,6 @@ for all school permits in the date range you're interested in. Once you have the
 just export to excel and save the query as a csv. 
 
 If you get an SSL error, you're probably on City wifi, which will break this script.
-If you're not on City wifi, install the certifi package.
 
 The script downloads ICS files from Facilitron.com reservation by reservation.
 It counts each hour an ammenity is used seperately, which means if one reservation uses multiple
